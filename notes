@@ -1,0 +1,4 @@
+first install { UV package Manager}
+then run {uv init}
+then to add streamlit u run{uv ass streamlit}
+stremlit hello  {if run more than one file } othr wise run {streamlit main.py}
